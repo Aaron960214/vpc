@@ -41,10 +41,10 @@
 
 |名称|类型|描述|
 |:-|:-|:-|
-|NatGatewayId|String| NAT网关所在地域。
+|NatGatewayId|String| NAT网关的ID。
 
  |
-|RegionId|String| NAT网关的ID。
+|RegionId|String| NAT网关所在地域。
 
  |
 |Description|Integer| NAT网关的描述信息。
