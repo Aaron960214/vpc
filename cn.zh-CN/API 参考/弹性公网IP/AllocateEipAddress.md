@@ -29,7 +29,7 @@
 
 
  |
-|InstanceChargeType|String|否| EIP的付费方式。取值：E
+|InstanceChargeType|String|否| EIP的付费方式。取值：
 
  -   PrePaid：预付费
 
