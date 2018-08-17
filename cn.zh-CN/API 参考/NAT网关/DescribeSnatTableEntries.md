@@ -44,7 +44,7 @@
 |SnatEntryId|String| SNAT条目的ID。
 
  |
-|SourceVSwitchIdalIp|String| 通过SNAT功能进行公网访问的交换机ID。
+|SourceVSwitchId|String| 通过SNAT功能进行公网访问的交换机ID。
 
  |
 |SourceCIDR|String| SNAT条目的源网段。
